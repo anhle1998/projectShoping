@@ -1,0 +1,16 @@
+/* css layout */
+.ant-layout-footer{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+}
+.container-home{
+    width: 960px !important;
+}
+.ant-layout-content{
+    background-color: rgb(214, 214, 214) !important;
+}
+.site-layout-content{
+    background-color: rgb(214, 214, 214)!important;
+    padding: 10px 20px !important;
+}
